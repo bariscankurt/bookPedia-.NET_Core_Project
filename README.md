@@ -1,10 +1,3 @@
 # bookPedia-.NET_Core_Project
 
-müþteri kitap listelemesi görselliði
-yorum kýsmý
-spoiler içeren alan
-puanlama
-puana göre listele
-üyeliksiz görünümü arttýr
-kitap satýþý
-kitap deðiþimi
+This is a simple .net core project where you can execute crud operations. 
